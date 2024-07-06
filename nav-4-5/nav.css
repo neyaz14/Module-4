@@ -1,0 +1,23 @@
+nav  ul{
+    display: flex;
+    /* background: aqua; */
+    /* dis; */
+
+}
+
+nav li{
+    list-style: none;
+    margin-right: 15px;
+    padding: 5px;
+
+    
+    
+}
+
+nav li a {
+    text-decoration: none;
+    font-size: xx-large;
+    
+    color: brown;
+   
+}
